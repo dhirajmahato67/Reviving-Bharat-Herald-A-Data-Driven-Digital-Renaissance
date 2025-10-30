@@ -69,6 +69,14 @@ The Power BI report consists of **four main pages** with interactive filters for
 
 ---
 
+## 🖼️ Project Presentation
+You can explore the detailed presentation for this project here:  
+👉 **[View Presentation on Canva](https://www.canva.com/design/DAG0nchZWoI/Z6epys7Kqi0ao74p82Yncg/view?utm_content=DAG0nchZWoI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfa9b95e97f)**  
+
+It provides a clear visualization of the problem, analysis, and recommendations.
+
+---
+
 ## 🏁 Conclusion
 This project demonstrates how **data-driven insights** can guide legacy media companies like **Bharat Herald** through their **digital transformation journey**. The analysis highlights the importance of analytics in **reviving brand performance** and **ensuring sustainable growth** in the modern era.
 
